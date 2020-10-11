@@ -1,0 +1,2 @@
+# push file over scd to remote folder
+scd file.py pi@<<IP>>:<<FOLDER>>
